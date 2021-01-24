@@ -1,3 +1,4 @@
-var newdate = new Date("Mars 8, 1990 20:00:00");
-console.log(newdate);
+var Element =document.getElementsByTagName("div");
+
+Element[0].innerHTML ="it was edit from js";
 
