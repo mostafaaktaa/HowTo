@@ -1,4 +1,4 @@
 var Element =document.getElementsByTagName("div");
 
-Element[0].innerHTML ="it was edit from js";
+Element[1].innerHTML ="Hi iam mostafa from the code from js";
 
