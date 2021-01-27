@@ -1,4 +1,6 @@
-var Element =document.getElementsByTagName("div");
+// Element.innerHTML =document.title;
 
-Element[1].innerHTML ="Hi iam mostafa from the code from js";
+var Element =document.getElementById("test");
+
+Element.innerHTML =document.title;
 
